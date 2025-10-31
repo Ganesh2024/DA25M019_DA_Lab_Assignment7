@@ -144,10 +144,3 @@ xgboost
 
 M.Tech Student — Data Science & Artificial Intelligence 
 ---
-
-## 🏁 Acknowledgment
-
-This project was completed as part of **DA5401: Foundations of Machine Learning**, taught by **Dr. Arun**.  
-Special thanks to the course team for providing clear instructions and the dataset reference.
-
----
