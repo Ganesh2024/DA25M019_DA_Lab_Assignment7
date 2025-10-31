@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This repository contains my submission for **DA5401 (Foundations of Machine Learning) Assignment 7**, focusing on **multi-class model selection using ROC and Precision-Recall curves**.
+This repository contains my submission for **DA5401 Assignment 7**, focusing on **multi-class model selection using ROC and Precision-Recall curves**.
 
 The goal is to evaluate and compare multiple classification models on the **UCI Landsat Satellite dataset**, analyzing their performance not just through accuracy, but by interpreting **ROC (Receiver Operating Characteristic)** and **Precision-Recall Curves (PRC)** across multiple classes.
 
@@ -99,7 +99,6 @@ Key evaluation aspects:
 ```
 .
 ├── Assignment7.ipynb        # Jupyter Notebook with complete code and analysis
-├── DA5401 A7 Model Selection.pdf  # Original assignment description
 └── README.md                # This file (project overview)
 ```
 
@@ -140,10 +139,10 @@ xgboost
 
 ## 🧩 Author
 
-**Ganesh**  
-M.Tech Student — Data Science & Artificial Intelligence  
-Indian Institute of Technology Madras  
+**Name: Ganesh**  
+**Roll No: DA25M019**
 
+M.Tech Student — Data Science & Artificial Intelligence 
 ---
 
 ## 🏁 Acknowledgment
